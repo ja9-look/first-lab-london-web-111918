@@ -1,1 +1,4 @@
 git clone git@github.com:ja9-look/first-lab-london-web-111918.git
+
+git add my-new-file.txt
+
